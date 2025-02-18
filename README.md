@@ -1,6 +1,7 @@
 # **Event Management System**  
 
-Welcome to the **Event Management System** repository! 🎉 This system is designed to **streamline event organization**, making it easier to **plan, manage, and promote** events of all types—**conferences, seminars, workshops, social gatherings, and more!**  
+Welcome to the **Event Management System** repository! 
+This system is designed to **streamline event organization**, making it easier to **plan, manage, and promote** events of all types—**conferences, seminars, workshops, social gatherings, and more!**  
 
 ## **Features**  
 
@@ -24,7 +25,6 @@ Welcome to the **Event Management System** repository! 🎉 This system is desig
 Join us in revolutionizing **event planning** and creating **unforgettable experiences!** 
 
 
-[View the PDF](https://github.com/krbo8o5/inizio/blob/main/Event%20Organizer.pdf)
+[View the PPT](https://github.com/krbo8o5/inizio/blob/main/Event%20Organizer.pdf)
 
-[![PDF Preview](https://github.com/your-username/your-repo/blob/main/preview-image.png)](https://github.com/krbo8o5/inizio/blob/main/Event%20Organizer.pdf)
 
